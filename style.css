@@ -6,7 +6,7 @@
         display:flex;
     justify-content: space-around; padding: 2% 24px;}
     .cabecalho-imagem{width: 15%;}
-    .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+    .cabecalho-lista-item{display: inline-block;margin: 0% 8px;
     }
     .imagem-escola {width: 25%;}
     .escola{background-image:linear-gradient(rgb(255, 24, 51),rgba(247, 75, 1, 0.777));color: aliceblue;display: flex;}
